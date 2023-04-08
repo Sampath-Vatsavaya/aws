@@ -1,0 +1,5 @@
+Long term vs ON-demand
+
+long term is committing to utilize the service for longer duration
+
+On-demand is committing to use for an hour or minutes based billing
