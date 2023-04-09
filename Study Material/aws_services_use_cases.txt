@@ -1,0 +1,15 @@
+
+When you start a new college but you dont have physical infrastructure. You want to have labs to teach  for students like python lab where students will login to the lab and learn the concepts. 
+
+-- Amazon Container Service(Light Sail) is the cheapest option but it can also be done using ec2
+
+
+
+I have a swift(programming language used for ios) code and I want to test it 
+
+-- We can do this using an Ec2 Instance that has mac Os 
+
+If we have to have an Altos(Real time operating system) on our aws
+
+-- We can do this using the AMI(Amazon Machine Image)
+

@@ -1,0 +1,56 @@
+1) Amazon Elastic Compute Cloud Documentation:
+
+Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides resizable computing capacity—literally, servers in Amazon's data centers—that you use to build and host your software systems.
+
+Amazon EC2
+Amazon EC2 Auto Scaling
+Migrate to Amazon EC2
+Amazon Linux
+Workloads on Amazon EC2
+
+2) Amazon Simple Storage Service Documentation:
+
+Amazon Simple Storage Service (Amazon S3) is storage for the internet. You can use Amazon S3 to store and retrieve any amount of data at any time, from anywhere on the web.
+
+Amazon S3 : Use Amazon S3 to store and retrieve any amount of data using highly scalable, reliable, fast, and inexpensive data storage.
+
+Amazon S3 Glacier: Use Amazon S3 Glacier to provide durable and extremely low-cost storage for infrequently used data with security features for data archiving and backup.
+
+3) Amazon RDS and Aurora Documentation:
+
+Amazon Relational Database Service (Amazon RDS) is a web service that makes it easier to set up, operate, and scale a relational database in the cloud. It provides cost-efficient, resizeable capacity for an industry-standard relational database and manages common database administration tasks. Amazon Aurora is a fully managed relational database engine that's built for the cloud and compatible with MySQL and PostgreSQL. Amazon Aurora is part of Amazon RDS.
+
+4) Amazon DynamoDB Documentation: 
+
+Amazon DynamoDB is a fully managed NoSQL database service that provides fast and predictable performance with seamless scalability. You can use Amazon DynamoDB to create a database table that can store and retrieve any amount of data, and serve any level of request traffic. Amazon DynamoDB automatically spreads the data and traffic for the table over a sufficient number of servers to handle the request capacity specified by the customer and the amount of data stored, while maintaining consistent and fast performance.
+
+5) AWS Lambda Documentation: 
+
+With AWS Lambda, you can run code without provisioning or managing servers. You pay only for the compute time that you consume—there's no charge when your code isn't running. You can run code for virtually any type of application or backend service—all with zero administration. Just upload your code and Lambda takes care of everything required to run and scale your code with high availability.
+
+6) Amazon Virtual Private Cloud Documentation:
+
+Amazon Virtual Private Cloud (Amazon VPC) enables you to provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you've defined.
+
+Amazon VPC
+AWS Newtork Manager: AWS Network Manager allows you to manage and monitor your AWS network environment from a centralized location, including creating global networks.
+
+Amazon VPC IP Address Manager :Amazon VPC IP Address Manager (IPAM) automates your IP address management workflows. This includes assigning, tracking, troubleshooting, and auditing IP addresses across AWS Regions and accounts throughout your AWS Organization.
+
+AWS Transit Gateway :AWS Transit Gateway connects your VPCs and on-premises networks through a central hub.
+
+AWS PrivateLink :AWS PrivateLink establishes private connectivity between VPCs and services hosted on AWS or on-premises, without exposing data to the internet.
+
+7) Amazon Lightsail Documentation :
+
+Amazon Lightsail and Amazon Lightsail for Research help developers, academics, and researchers get started using Amazon Web Services (AWS).
+
+Amazon Lightsail: Lightsail includes the features developers need to launch projects: instances (virtual private servers), managed databases, object storage, load balancers, content delivery network (CDN) distributions, SSD-based block storage, static IP addresses, domain registration, DNS management, and snapshots (backups). These features are all available for a low, predictable monthly price.
+
+
+Amazon Lightsail for Research :Lightsail for Research provides academics and researchers access to virtual computers with pre-configured work applications. You can also configure rules to manage resource usage and cost.
+
+
+8) Amazon SageMaker Documentation:
+
+Amazon SageMaker is a fully managed machine learning service. With Amazon SageMaker, data scientists and developers can quickly build and train machine learning models, and then deploy them into a production-ready hosted environment.
